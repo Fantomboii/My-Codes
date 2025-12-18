@@ -1,2 +1,2 @@
 # My-Codes
-Simple coding practice daily
+practicing Simple coding daily
